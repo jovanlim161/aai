@@ -14,10 +14,9 @@ Here’s a photo that represents me or my interests:
 
 
 ## Fun Fact  
-- **Favorite Quote**: "The journey of a thousand miles begins with a single step."  
-- **Current Project**: Building this website with Quarto!  
+- **Favorite Quote**: "Never get Analysis Paralysis by Hibatul Hadi the Master Trader."  
+- **Current Project**: Lead Japan to the U20 World Cup!  
 
 ## Quick Math:  
-Here’s an example of a code chunk:  
-```{r}
-1 + 1
+Here’s an example of a world class player in Blue Lock
+![](genius.jpg){fig-align="center" width="50%"}
