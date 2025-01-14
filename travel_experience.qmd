@@ -1,39 +1,45 @@
 ---
-title: "FYP Project"
+title: "Travel Experience"
 ---
 
-# Welcome to My FYP Project
+# My Travel Experience  
 
-## Project Title: [Smart Home]  
-(*E.g., "Design and Development of a Smart Home System"*)
+## Exploring Japan  
 
-## About the Project  
-This project was part of my final year prior to entering SIT. It focused on:  
-- [Automating home appliances using IoT technology.]  
-- [Enhancing energy efficiency for smart homes.]  
-- [Providing a user-friendly interface for real-time monitoring and control.]
+One of my favorite travel experiences was my trip to Japan. It was an unforgettable journey that taught me so much about the culture, food, and history of this beautiful country.  
 
-## Key Features:  
-1. **[AI Voice]**: ("Voice-controlled light system using AI").  
-2. **[Application Integration]**: "Mobile app for monitoring energy consumption").  
-3. **[Cloud Home]**: "Cloud-based data storage for real-time analytics").  
+### Highlights of the Trip  
 
-## Technology Stack:  
-- Programming Languages: [Python, C++].  
-- Frameworks: [Flask, TensorFlow].  
-- Tools: [Arduino, Raspberry Pi].  
+1. **Tokyo**:  
+   - Visited the bustling streets of Shibuya and the iconic Shibuya Crossing.  
+   - Explored the historic Asakusa district and the Senso-ji Temple.  
 
-## Key Takeaways  
-This project allowed me to:  
-- Gain hands-on experience in IoT development and system integration.  
-- Improve my skills in coding, debugging, and teamwork.  
-- Present my findings effectively to a technical audience.
+2. **Kyoto**:  
+   - Witnessed the serene beauty of the Arashiyama Bamboo Grove.  
+   - Explored the famous Fushimi Inari Shrine and its thousands of red torii gates.  
 
-## Images 
-Here’s a photo of the project:  
-![](smarthome.jpg){fig-align="center" width="60%"}  
+3. **Osaka**:  
+   - Enjoyed the vibrant nightlife and delicious street food at Dotonbori.  
+   - Visited Osaka Castle, a stunning historical landmark.  
+
+### How This Trip Influenced Me  
+
+- **Cultural Appreciation**: Immersing myself in Japanese traditions, from tea ceremonies to samurai history, gave me a new appreciation for cultural diversity.  
+- **Love for Travel**: This trip inspired me to continue exploring other countries and cultures.  
+
+### Photos from the Trip  
+
+![](shibuya.jpg){fig-align="center" width="50%"}  
+*Shibuya Crossing at night.*  
 
 
-## Reflection  
-This project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT.
+### Tips for Travelers  
+
+- Learn a few basic Japanese phrases like "Arigatou" (Thank you) and "Sumimasen" (Excuse me).  
+- Use public transportation—it’s clean, efficient, and reliable.  
+- Don’t miss trying authentic sushi and ramen from local spots.  
+
+---
+
+---
 
