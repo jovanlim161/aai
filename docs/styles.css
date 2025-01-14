@@ -1,19 +1,133 @@
-/* css styles */
+/* Enhanced CSS Styles */
 
+/* General Body Styling */
 body {
-  font-family: Arial, sans-serif;
-  font-size: 16px;
-}
-
-p {
+  font-family: 'Roboto', Arial, sans-serif; /* Modern, clean font */
+  font-size: 16px; /* Base font size for scaling */
+  line-height: 1.6; /* Improved readability */
+  color: #333; /* Dark gray for better contrast */
+  background-color: #f9f9f9; /* Light background for a clean look */
   margin: 0;
   padding: 0;
-  line-height: 1.2;
 }
 
-h1,h2 {
-  font-size: 16pt;
+/* Paragraph Styling */
+p {
+  margin: 0 0 1em; /* Spacing between paragraphs */
+  padding: 0;
+  line-height: 1.8; /* Enhanced readability for longer text */
+  color: #444; /* Slightly lighter than body color for softer contrast */
 }
-h3,h4 {
-  font-size: 14pt;
+
+/* Headings Styling */
+h1, h2, h3, h4 {
+  font-family: 'Merriweather', serif; /* Serif font for a classic look in headings */
+  margin: 1em 0 0.5em; /* Spacing around headings */
+  line-height: 1.4; /* Better spacing in headings */
+  color: #222; /* Darker than body text for prominence */
+}
+
+h1 {
+  font-size: 2.5rem; /* Larger size for main heading */
+  border-bottom: 2px solid #ccc; /* Underline for separation */
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 2rem;
+  border-bottom: 1px solid #ddd; /* Lighter underline */
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.75rem;
+  color: #444; /* Slightly softer for less hierarchy */
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #555; /* Softer tone for sub-headings */
+}
+
+/* Links */
+a {
+  color: #007acc; /* Primary blue for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #005a99; /* Darker blue on hover */
+  text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0 0 1em 1.5em; /* Indented and spaced */
+  padding: 0;
+  line-height: 1.8; /* Readability for list items */
+}
+
+li {
+  margin-bottom: 0.5em; /* Spacing between items */
+}
+
+/* Images */
+img {
+  max-width: 100%; /* Responsive images */
+  height: auto;
+  border-radius: 5px; /* Soft corners for images */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Code Blocks */
+pre, code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95rem;
+  background-color: #f4f4f4; /* Light gray background */
+  border: 1px solid #ddd; /* Subtle border */
+  border-radius: 5px;
+  padding: 0.5em;
+  color: #333;
+  overflow-x: auto;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%; /* Responsive width */
+  margin-bottom: 1em;
+  font-size: 0.95rem;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.75em;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4; /* Light background for headers */
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9; /* Alternate row coloring */
+}
+
+/* Buttons */
+button {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 1rem;
+  padding: 0.5em 1em;
+  color: #fff;
+  background-color: #007acc;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #005a99; /* Darker blue on hover */
 }

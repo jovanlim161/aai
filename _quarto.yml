@@ -3,14 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "JovanWebsite"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
-        text: Home
+        text: Navigation
+      - index.qmd
       - about.qmd
+      - travel_experience.qmd
+      - relection.qmd
 
 format:
   html:

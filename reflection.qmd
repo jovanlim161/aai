@@ -1,0 +1,39 @@
+---
+title: "FYP Project"
+---
+
+# Welcome to My FYP Project
+
+## Project Title: [Smart Home]  
+(*E.g., "Design and Development of a Smart Home System"*)
+
+## About the Project  
+This project was part of my final year prior to entering SIT. It focused on:  
+- [Automating home appliances using IoT technology.]  
+- [Enhancing energy efficiency for smart homes.]  
+- [Providing a user-friendly interface for real-time monitoring and control.]
+
+## Key Features:  
+1. **[AI Voice]**: ("Voice-controlled light system using AI").  
+2. **[Application Integration]**: "Mobile app for monitoring energy consumption").  
+3. **[Cloud Home]**: "Cloud-based data storage for real-time analytics").  
+
+## Technology Stack:  
+- Programming Languages: [Python, C++].  
+- Frameworks: [Flask, TensorFlow].  
+- Tools: [Arduino, Raspberry Pi].  
+
+## Key Takeaways  
+This project allowed me to:  
+- Gain hands-on experience in IoT development and system integration.  
+- Improve my skills in coding, debugging, and teamwork.  
+- Present my findings effectively to a technical audience.
+
+## Images 
+Here’s a photo of the project:  
+![](smarthome.jpg){fig-align="center" width="60%"}  
+
+
+## Reflection  
+This project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT.
+
