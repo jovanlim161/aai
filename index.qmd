@@ -1,11 +1,23 @@
 ---
-title: "temp_website"
+title: "Home of Barcelona"
 ---
 
-This is a Quarto website.
+# Welcome to My Homepage!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me  
+Hello! My name is Jovan Lim Yu Hang, and I am passionate about Football.  
+When I’m not sleeping, I enjoy watching Lamine Yamal play world class football.  
 
-```{r}
-1 + 1
-```
+## Photo  
+Here’s a photo that represents me or my interests:  
+![](logo.png){fig-align="center" width="50%"}  
+
+
+## Fun Fact  
+- **Favorite Quote**: "Never get Analysis Paralysis by Hibatul Hadi the Master Trader."  
+- **Current Project**: Lead Japan to the U20 World Cup!  
+
+## Quick Fact:  
+Here’s an example of a world class player in Blue Lock
+![](genius.jpg){fig-align="center" width="50%"}
+

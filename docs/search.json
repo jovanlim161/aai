@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "FYP Project",
     "section": "",
-    "text": "Hello! My name is Jovan Lim Yu Hang, and I am passionate about Football.\nWhen I’m not sleeping, I enjoy watching Lamine Yamal play world class football.\n\n\n\nHere’s a photo that represents me or my interests:\n\n\n\n\n\nFavorite Quote: “Never get Analysis Paralysis by Hibatul Hadi the Master Trader.”\n\nCurrent Project: Lead Japan to the U20 World Cup!\n\n\n\n\nHere’s an example of a world class player in Blue Lock"
+    "text": "(E.g., “Design and Development of a Smart Home System”)\n\n\n\nThis project was part of my final year prior to entering SIT. It focused on:\n- [Automating home appliances using IoT technology.]\n- [Enhancing energy efficiency for smart homes.]\n- [Providing a user-friendly interface for real-time monitoring and control.]\n\n\n\n\n[AI Voice]: (“Voice-controlled light system using AI”).\n\n[Application Integration]: “Mobile app for monitoring energy consumption”).\n\n[Cloud Home]: “Cloud-based data storage for real-time analytics”).\n\n\n\n\n\nProgramming Languages: [Python, C++].\n\nFrameworks: [Flask, TensorFlow].\n\nTools: [Arduino, Raspberry Pi].\n\n\n\n\nThis project allowed me to:\n- Gain hands-on experience in IoT development and system integration.\n- Improve my skills in coding, debugging, and teamwork.\n- Present my findings effectively to a technical audience.\n\n\n\nHere’s a photo of the project:\n\n\n\n\nThis project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT."
   },
   {
     "objectID": "index.html",
@@ -47,5 +47,54 @@
     "title": "About",
     "section": "",
     "text": "Here’s an example of a world class player in Blue Lock"
+  },
+  {
+    "objectID": "about.html#project-title-smart-home",
+    "href": "about.html#project-title-smart-home",
+    "title": "FYP Project",
+    "section": "",
+    "text": "(E.g., “Design and Development of a Smart Home System”)"
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This project was part of my final year prior to entering SIT. It focused on:\n- [Automating home appliances using IoT technology.]\n- [Enhancing energy efficiency for smart homes.]\n- [Providing a user-friendly interface for real-time monitoring and control.]"
+  },
+  {
+    "objectID": "about.html#key-features",
+    "href": "about.html#key-features",
+    "title": "FYP Project",
+    "section": "",
+    "text": "[AI Voice]: (“Voice-controlled light system using AI”).\n\n[Application Integration]: “Mobile app for monitoring energy consumption”).\n\n[Cloud Home]: “Cloud-based data storage for real-time analytics”)."
+  },
+  {
+    "objectID": "about.html#technology-stack",
+    "href": "about.html#technology-stack",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Programming Languages: [Python, C++].\n\nFrameworks: [Flask, TensorFlow].\n\nTools: [Arduino, Raspberry Pi]."
+  },
+  {
+    "objectID": "about.html#key-takeaways",
+    "href": "about.html#key-takeaways",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This project allowed me to:\n- Gain hands-on experience in IoT development and system integration.\n- Improve my skills in coding, debugging, and teamwork.\n- Present my findings effectively to a technical audience."
+  },
+  {
+    "objectID": "about.html#images",
+    "href": "about.html#images",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Here’s a photo of the project:"
+  },
+  {
+    "objectID": "about.html#reflection",
+    "href": "about.html#reflection",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT."
   }
 ]
