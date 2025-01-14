@@ -5,7 +5,6 @@ title: "FYP Project"
 # Welcome to My FYP Project
 
 ## Project Title: [Smart Home]  
-(*E.g., "Design and Development of a Smart Home System"*)
 
 ## About the Project  
 This project was part of my final year prior to entering SIT. It focused on:  
