@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home of Barcelona",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Jovan Lim Yu Hang, and I am passionate about Football.\nWhen I’m not sleeping, I enjoy watching Lamine Yamal play world class football.\n\n\n\nHere’s a photo that represents me or my interests:\n\n\n\n\n\nFavorite Quote: “Never get Analysis Paralysis by Hibatul Hadi the Master Trader.”\n\nCurrent Project: Lead Japan to the U20 World Cup!\n\n\n\n\nHere’s an example of a world class player in Blue Lock"
   },
   {
     "objectID": "about.html#about-me",
@@ -96,5 +96,33 @@
     "title": "FYP Project",
     "section": "",
     "text": "This project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home of Barcelona",
+    "section": "",
+    "text": "Hello! My name is Jovan Lim Yu Hang, and I am passionate about Football.\nWhen I’m not sleeping, I enjoy watching Lamine Yamal play world class football."
+  },
+  {
+    "objectID": "index.html#photo",
+    "href": "index.html#photo",
+    "title": "Home of Barcelona",
+    "section": "",
+    "text": "Here’s a photo that represents me or my interests:"
+  },
+  {
+    "objectID": "index.html#fun-fact",
+    "href": "index.html#fun-fact",
+    "title": "Home of Barcelona",
+    "section": "",
+    "text": "Favorite Quote: “Never get Analysis Paralysis by Hibatul Hadi the Master Trader.”\n\nCurrent Project: Lead Japan to the U20 World Cup!"
+  },
+  {
+    "objectID": "index.html#quick-fact",
+    "href": "index.html#quick-fact",
+    "title": "Home of Barcelona",
+    "section": "",
+    "text": "Here’s an example of a world class player in Blue Lock"
   }
 ]
