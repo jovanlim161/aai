@@ -142,9 +142,9 @@
   {
     "objectID": "reflection.html",
     "href": "reflection.html",
-    "title": "FYP Project",
+    "title": "Reflection on the Use of GenAI",
     "section": "",
-    "text": "(E.g., “Design and Development of a Smart Home System”)\n\n\n\nThis project was part of my final year prior to entering SIT. It focused on:\n- [Automating home appliances using IoT technology.]\n- [Enhancing energy efficiency for smart homes.]\n- [Providing a user-friendly interface for real-time monitoring and control.]\n\n\n\n\n[AI Voice]: (“Voice-controlled light system using AI”).\n\n[Application Integration]: “Mobile app for monitoring energy consumption”).\n\n[Cloud Home]: “Cloud-based data storage for real-time analytics”).\n\n\n\n\n\nProgramming Languages: [Python, C++].\n\nFrameworks: [Flask, TensorFlow].\n\nTools: [Arduino, Raspberry Pi].\n\n\n\n\nThis project allowed me to:\n- Gain hands-on experience in IoT development and system integration.\n- Improve my skills in coding, debugging, and teamwork.\n- Present my findings effectively to a technical audience.\n\n\n\nHere’s a photo of the project:\n\n\n\n\nThis project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT."
+    "text": "When completing this assessment, I mainly followed the Lab materials to aid me in my progress. I also used Generative AI such as ChatGPT to help me think of ideas to put into my website. Whenever I encountered problems and needed help, I asked ChatGPT for help instead. In my opinion, this should be the way for students to use Generative AI as many students use AI without understanding how it actually works. Therefore by referring to the Lab materials to aid me as well, I am able to understand everything and progress quickly in the Lab while getting help from external sources."
   },
   {
     "objectID": "reflection.html#project-title-smart-home",
@@ -194,5 +194,12 @@
     "title": "FYP Project",
     "section": "",
     "text": "This project helped shape my interest in computing and inspired me to pursue further studies and career opportunities in SIT."
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "When completing this assessment, I mainly followed the Lab materials to aid me in my progress. I also used Generative AI such as ChatGPT to help me think of ideas to put into my website. Whenever I encountered problems and needed help, I asked ChatGPT for help instead. In my opinion, this should be the way for students to use Generative AI as many students use AI without understanding how it actually works. Therefore by referring to the Lab materials to aid me as well, I am able to understand everything and progress quickly in the Lab while getting help from external sources."
   }
 ]
