@@ -2,6 +2,8 @@
 title: "Reflection on the Use of GenAI"
 ---
 
+# My Reflection
+
 ## Reflection on the Use of GenAI
 
 When completing this assessment, I mainly followed the Lab materials to aid me in my progress. I also used Generative AI such as ChatGPT to help me think of ideas to put into my website. Whenever I encountered problems and needed help, I asked ChatGPT for help instead. In my opinion, this should be the way for students to use Generative AI as many students use AI without understanding how it actually works. Therefore by referring to the Lab materials to aid me as well, I am able to understand everything and progress quickly in the Lab while getting help from external sources.

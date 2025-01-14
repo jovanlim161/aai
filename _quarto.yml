@@ -13,7 +13,7 @@ website:
       - index.qmd
       - about.qmd
       - travel_experience.qmd
-      - relection.qmd
+      - reflection.qmd
 
 format:
   html:
