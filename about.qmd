@@ -2,8 +2,22 @@
 title: "About"
 ---
 
-About this site
+# Welcome to My Homepage!
 
+## About Me  
+Hello! My name is Jovan Lim Yu Hang, and I am passionate about Football.  
+When I’m not sleeping, I enjoy watching Lamine Yamal play world class football.  
+
+## Photo  
+Here’s a photo that represents me or my interests:  
+![](logo.png){fig-align="center" width="50%"}  
+
+
+## Fun Fact  
+- **Favorite Quote**: "The journey of a thousand miles begins with a single step."  
+- **Current Project**: Building this website with Quarto!  
+
+## Quick Math:  
+Here’s an example of a code chunk:  
 ```{r}
 1 + 1
-```
